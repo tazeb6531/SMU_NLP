@@ -1,2 +1,2 @@
 # SMU_NLP
-CLass assignment 
+Rhis the CLass assignment design to work out for Homeworks. 
